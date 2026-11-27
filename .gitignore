@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Tooling / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary outputs (keep reports/ and models/ - they are deliverables)
+reports/tmp/
+*.log
