@@ -1,0 +1,10 @@
+transformed_feature,model_importance
+Mechanical power [W],0.2547
+Rotational speed [rpm],0.18
+Torque [Nm],0.1777
+Temperature difference [K],0.1381
+Tool wear [min],0.1339
+Air temperature [K],0.0496
+Process temperature [K],0.0455
+Type_L,0.0123
+Type_M,0.0082

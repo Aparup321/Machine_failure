@@ -1,0 +1,7 @@
+feature,permutation_importance,permutation_std
+Torque [Nm],0.6258,0.0083
+Rotational speed [rpm],0.5866,0.0175
+Air temperature [K],0.4682,0.0277
+Process temperature [K],0.2671,0.0125
+Tool wear [min],0.187,0.0223
+Type,0.0345,0.0139
