@@ -1,0 +1,7 @@
+Type,Air temperature [K],Process temperature [K],Rotational speed [rpm],Torque [Nm],Tool wear [min],failure_probability,prediction,prediction_label,risk_level
+M,298.1,308.6,1551,42.8,0,0.0,0,No,LOW
+L,298.2,308.7,1408,46.3,3,0.01,0,No,LOW
+L,298.1,308.5,1498,49.4,5,0.0,0,No,LOW
+L,298.2,308.6,1433,39.5,7,0.0,0,No,LOW
+L,298.2,308.7,1408,40.0,9,0.0,0,No,LOW
+M,298.1,308.6,1425,41.9,11,0.0,0,No,LOW
